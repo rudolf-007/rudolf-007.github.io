@@ -1,0 +1,34 @@
+/* CSS Document */
+body {
+	background-color: #f2f2f2;
+}
+
+ul {
+	margin-right: 12px;
+	margin-top: 8px;
+	list-style: none;
+	text-align: right;
+}
+
+li {
+	margin-bottom: 12px;
+}
+
+a {
+	letter-spacing: 2px;
+	text-decoration: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: grey;
+}
+
+a div {
+	font-size: 10px;
+	padding-bottom: 3px;
+	border-bottom: solid 1px grey;
+}
+
+a div:hover {
+	background-color: #00257E;
+	border-bottom: solid 1px #00257E;
+	color: white;
+}
